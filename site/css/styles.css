@@ -1,0 +1,78 @@
+body {
+ background-image: url(https://degiolito.github.io/project/site/images/metal.png);
+ background-repeat: repeat;
+ margin-top: 0px;
+ margin-left: 0px;
+ margin-right: 0px;
+ margin-bottom: 0px;
+}
+
+.top img{
+  width: 100%;
+  margin-bottom: 50px;
+}
+
+.menu {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-bottom: 80px;
+}
+
+.menu img{
+  float: left;
+}
+
+.help {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 22em;
+  margin-top: 200px;
+  margin-bottom: 80px;
+}
+
+.links a {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 8%;
+}
+
+.num {
+  font-size: 50px;
+  font-weight: bold;
+  color: red;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.links h2 {
+  font-weight: bold;
+  color: red;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  background-color: white;
+}
+
+#welcome {
+ margin-left: 2px;
+}
+
+#rightSideGif{
+ margin-left: 2px;
+}
+
+.ad {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 45em;
+}

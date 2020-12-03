@@ -1,0 +1,65 @@
+body {
+ background-image: url(/home/degiolito/Code/mari/images/metal.png);
+ background-repeat: repeat;
+ margin-top: 0px;
+ margin-left: 0px;
+ margin-right: 0px;
+}
+
+.top img{
+  width: 100%;
+  margin-bottom: 50px;
+}
+
+.menu, .desc {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15em;
+}
+
+#leftSideGif, #fum {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+}
+
+.text {
+  margin-top: 200px;
+}
+
+.text p{
+  margin-left: 32%;
+  width: 40%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+  color: yellow;
+  background: black;
+  font-size: 20px;
+}
+
+.desc p {
+  height: 60%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+  color: yellow;
+  background: green;
+  font-size: 20px;
+
+}
+
+#bonus {
+  font-size: 30px;
+  background-color: darkgreen;
+}
+
+#title {
+  color: red;
+  height: 70px;
+  width: 20%;
+  text-align: center;
+  font-size: 47px;
+}
